@@ -3,3 +3,6 @@ Pasta do SENAI
 batatinha quando nasce
 
 lembrei do comando: git status
+
+
+errei o ultimo commit, atualizando para mudar
